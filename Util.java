@@ -1,1 +1,3 @@
-Arxiu per a l'ampliació del programa que estem creant
+//utilitats
+
+//arreglant els errors
